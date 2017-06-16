@@ -1,0 +1,22 @@
+{
+  "name": "jobs",
+  "version": "1.0.0",
+  "description": "Job Portal",
+  "main": "apiRoutes.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "body-parser": "^1.15.2",
+    "inherits": "^2.0.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.10.6",
+    "mkdirp": "^0.5.1",
+    "multer": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Akash",
+  "license": "ISC"
+}
